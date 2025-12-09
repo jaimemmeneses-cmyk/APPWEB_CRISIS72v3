@@ -1,0 +1,5 @@
+{
+  "name": "Crisis72: Simulador de Continuidad de Negocio v3",
+  "description": "Un simulador interactivo de continuidad de negocio donde debes sobrevivir 72 horas tras un evento adverso mayor. Gestiona recursos, toma decisiones críticas y asegura la seguridad del personal.",
+  "requestFramePermissions": []
+}
